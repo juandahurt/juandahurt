@@ -1,7 +1,5 @@
 ### Bienvenido, extraño.
 
-Me llamo Juan David Hurtado. Actualmente soy estudiante de Ing. Sistemas en la Universidad del Cauca y me encuentro en Popayán, Colombia.
-
 Tienes toda la libertad de entrar a mis repositorios.
 
 Un placer conocerte.
